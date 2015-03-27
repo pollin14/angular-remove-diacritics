@@ -6,19 +6,12 @@ Overview
 
 Angular service to remove accents/diacritics in strings
 
-
-__All the best and enjoy using.__
-
 Getting started
 ---------------
 
-### Download
-
-- [Download](https://github.com/Kepro/angular-remove-diacritics/archive/master.zip) from github.
-
 ### Install from bower
 ```
-bower install angular-remove-diacritics
+bower install https://github.com/pollin14/angular-remove-diacritics.git#1.0.*
 ```
 
 
