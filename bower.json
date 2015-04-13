@@ -1,6 +1,6 @@
 {
   "name": "angular-remove-diacritics",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://github.com/Kepro/angular-remove-diacritics",
   "authors": [
     "kepro <kepro@txx.sk>"
@@ -21,6 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.3.8"
+    "angular": ">1.2.*"
   }
 }
