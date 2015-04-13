@@ -1,12 +1,13 @@
 {
   "name": "angular-remove-diacritics",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "https://github.com/Kepro/angular-remove-diacritics",
   "authors": [
-    "kepro <kepro@txx.sk>"
+    "kepro <kepro@txx.sk,
+    "pollin14 <pollinpollin14@gmail.com"
   ],
   "description": "Angular service to remove accents/diacritics in strings",
-  "main": "remove-diacritics.js",
+  "main": "src/remove-diacritics.js",
   "keywords": [
     "angular",
     "diacritics",
