@@ -1,3 +1,6 @@
+# WARNING
+> It is better to use the filter [latinize](https://github.com/a8m/angular-filter#latinize] of collection filters) [a8m/angular-filters](https://github.com/a8m/angular-filte)
+
 angular-remove-diacritics
 =========================
 
